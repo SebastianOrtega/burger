@@ -1,0 +1,67 @@
+.data {
+  position: relative;
+}
+
+.bottom {
+  margin-top: 10px;
+  bottom: 20px;
+}
+
+.btn {
+  display: block;
+  margin: 0 auto;
+}
+
+.label {
+  padding: 10px;
+}
+
+.devourBurgerBtn {
+  position: relative;
+  right: 0px;
+  left: 400px;
+  bottom: 35px;
+  margin: 0;
+  border-radius: 6px;
+}
+
+body {
+  background-color: rgb(220, 162, 92);
+}
+
+img {
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.list-group-item {
+  background-color: rgb(220, 162, 92);
+  margin: 3px 0px 3px 0px;
+  border: none;
+  position: static;
+}
+.list-group-item.disabled {
+  background-color: gray;
+  color: aliceblue;
+}
+
+/*.all-labels {
+  display: inline;
+  background-color: lightgrey;
+  padding: 15px 15px 15px 0px;
+  margin-right: 50px;
+  border-radius: 3px;
+}*/
+.card {
+  margin: 0px;
+
+  display: block;
+  width: 300px;
+}
+.li {
+  margin: 0px;
+}
